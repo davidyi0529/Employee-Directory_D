@@ -1,7 +1,13 @@
 import React from "react";
+import Table from "../Table";
+import "./style.css";
 
-function Container(props) {
-  return <div className={`container${props.fluid ? "-fluid" : ""}`} {...props} />;
+function Container() {
+  return (
+    <div className="jumbotron table-container">
+      <Table />
+    </div>
+  );
 }
 
 export default Container;

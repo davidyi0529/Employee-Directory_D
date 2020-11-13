@@ -1,9 +1,9 @@
 import React from "react";
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
-import Wrapper from "./components/Wrapper";
 import Header from "./components/Header";
-import Container from "./components/Container";
+import Navbar from "./components/Navbar";
+import Wrapper from "./components/Wrapper";
+import Gallery from "./pages/Gallery";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
     <Header />
       <Navbar />
         <Wrapper>
-          <Container />
+          <Gallery />
         </Wrapper>
       <Footer />
     </div>
