@@ -3,9 +3,10 @@ import "./style.css";
 
 function Footer() {
   return (
-    <footer className="footer">
-      <span>LinkedUp { new Date().getFullYear() }</span>
-    </footer>
+    <div className="footer">
+      <p>&copy; Copyright 2020 - </p>
+      <p>All rights reserved. Powered by Skye_D Projects</p>
+    </div>
   );
 }
 
