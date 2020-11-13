@@ -124,7 +124,7 @@ The following were used for this project.
 <table>
 <tr>
 <td align="center"><a href="https://bootcamp.berkeley.edu/coding/"><img src="https://trilogyed--c.na35.content.force.com/servlet/servlet.ImageServer?id=01541000003WWHu&amp;oid=00D410000006puJ&amp;lastMod=1527713228000" width="100px;" alt=""/><br /><sub><b>UCB-Coding-Bootcamp</b></sub></a><br /></td>
-<td align="center"><a href="https://nodejs.org/en/"><img src="https://nodejs.org/static/images/logo.svg" width="100px;" alt=""/><br /><sub><b>Node.js</b></sub></a><br /></td>
+<td align="center"><a href="https://nodejs.org/en/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png" width="100px;" alt=""/><br /><sub><b>Node.js</b></sub></a><br /></td>
 <td align="center"><a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" width="100px;" alt=""/><br /><sub><b>React.js</b></sub></a><br /></td>
 <td align="center"><a href="https://getbootstrap.com/"><img src="https://getbootstrap.com/docs/4.0/assets/brand/bootstrap-social-logo.png" width="100px;" alt=""/><br /><sub><b>Bootstrap</b></sub></a><br /></td>
 <td align="center"><a href="https://fonts.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo-GoogleFonts-color-background.png/250px-Logo-GoogleFonts-color-background.png" width="100px;" alt=""/><br /><sub><b>Google Fonts</b></sub></a><br /></td>
