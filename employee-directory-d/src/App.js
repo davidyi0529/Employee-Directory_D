@@ -1,17 +1,16 @@
-import React from "react";
-import Header from "./components/Header";
-import Navbar from "./components/Navbar";
-import Wrapper from "./components/Wrapper";
-import Gallery from "./pages/Gallery";
-import Footer from "./components/Footer";
+import React from 'react';
+import Header from './components/Header/Header';
+import Wrapper from './components/Wrapper/Wrapper';
+import Container from './components/Container/Container';
+import Footer from './components/Footer/Footer';
+import './App.css';
 
 function App() {
   return (
-    <div>
-    <Header />
-      <Navbar />
+    <div className='App'>
+      <Header />
         <Wrapper>
-          <Gallery />
+          <Container />
         </Wrapper>
       <Footer />
     </div>
