@@ -16,19 +16,19 @@
 - https://github.com/davidyi0529/Employee-Directory_D
 
 ### Link to Deployed App
-- ""
+- https://davidyi0529.github.io/Employee-Directory_D/
 
 <br />
 
-Employee-directory_D is a client-side React based web application.
+Employee-directory_D is an employee search directory built with React.js.
 
 <br />
 
 ### Screenshots of application:
 
-<img src="" width="800" height="600">
+<img src="https://github.com/davidyi0529/Employee-Directory_D/blob/master/public%2Fimg%2Fmainpage.png?raw=true" width="800" height="600">
 
-[<img src="" width="800" height="600">]()
+[<img src="https://github.com/davidyi0529/Employee-Directory_D/blob/master/public%2Fimg%2Fdemo.png?raw=true" width="800" height="600">](https://youtu.be/mK_R8mlrk5M)
 
 <br />
 <br />
