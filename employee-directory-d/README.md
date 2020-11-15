@@ -20,7 +20,7 @@
 
 <br />
 
-Employee-directory_D
+Employee-directory_D is a client-side React based web application.
 
 <br />
 
